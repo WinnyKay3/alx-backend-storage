@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 How to create tables with constraints
 How to optimize queries by adding indexes
 What is and how to implement stored procedures and functions in MySQL
 What is and how to implement views in MySQL
 What is and how to implement triggers in MySQL
+=======
+about advanced sql 
+>>>>>>> 4b7cb8c948ba23b7c33736654df29b5966f9be87
