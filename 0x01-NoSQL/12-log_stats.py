@@ -21,11 +21,11 @@ def log_stats():
         {"method": "GET", "path": "/status"})
     print(f"{total} logs")
     print("Methods:")
-    print(f"    method GET: {get}")
-    print(f"    method POST: {post}")
-    print(f"    method PUT: {put}")
-    print(f"    method PATCH: {patch}")
-    print(f"    method DELETE: {delete}")
+    print(f"\tmethod GET: {get}")
+    print(f"\tmethod POST: {post}")
+    print(f"\tmethod PUT: {put}")
+    print(f"\tmethod PATCH: {patch}")
+    print(f"\tmethod DELETE: {delete}")
     print(f"{path} status check")
 
 
