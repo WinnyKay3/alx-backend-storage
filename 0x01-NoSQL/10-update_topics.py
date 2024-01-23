@@ -8,4 +8,4 @@ def update_topics(mongo_collection, name, topics):
     topic (list of strings) will be list of topics approached 
     in school
     """
-    mongo_collection.update_many({"name": name}, {"$set": {"topics": topics}}})
+    mongo_collection.update_many({"name": name}, {"$set": {"topics": topics}})
